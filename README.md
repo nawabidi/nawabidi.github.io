@@ -39,6 +39,7 @@ I'm passionate about data analysis and financial consulting.
   - Apply machine learning to Kaggle's "Housing Prices" dataset to predict property values based on location, square footage, and other features.
   
 ## Where's Schueller?
+[View the live visualization](https://nawabidi.github.io/wheres_schueller.html)
 
 
 

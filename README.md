@@ -8,7 +8,7 @@ I'm passionate about data analysis and financial consulting.
 - **Programming:** Python, R
 - **Data Visualization:** Tableau, Power BI, ggplot2, Matplotlib
 
-# FinalProject
+# Political Market Volatility 
 ## Title: Market Movements and Election Day: Analyzing Stock Price Volatility in the U.S. Presidential Election Days
 ## Authors: Bidita and Pure
 
@@ -29,13 +29,33 @@ Percent Change = (November Closing Price − October Closing Price) /October Clo
 The changes were visualized using matplotlib, with purple (cool tone) showing positive changes and yellow/orange (hot tone) showing negative ones.. A reference line at 0% was added to indicate no change.
 
 ## Results
+
+### S&P 500
 The line plot gives an overview of the stock market in terms of its closing price from 1985 to 2024 to give a sense of how the market has changed over time overall.
 
+![image](https://github.com/user-attachments/assets/f7d97941-f106-43ec-b856-6343bc18158d)
 
 The bar chart revealed how the market behaved during election years, with purple bars showing market growth and yellow bars indicating decline from October to November. The graph contains the presidential terms from 1988 to 2024. 
 
+{% include_relative fig1.html %}
 
 The bars also provide further details when hovered on with the year, percentage change, and the presidential term.
+
+{% include_relative fig2.html %}
+
+### DOW Jones 
+![image](https://github.com/user-attachments/assets/ee6c86b1-2662-4010-9521-485134b1953a)
+
+{% include_relative fig3.html %}
+
+{% include_relative fig4.html %}
+
+### NASDAQ
+![image](https://github.com/user-attachments/assets/d7796d85-740d-4b3c-8f26-c86e887bdab5)
+
+{% include_relative fig5.html %}
+
+{% include_relative fig6.html %}
 
 
 ## Above & Beyond
@@ -56,16 +76,14 @@ Additionally, external factors with significant influence on the stock market, s
 
 If we were to explore the study further, we would address such limitations by incorporating the economic indicator such as GDP growth rate during election periods. Including this metric, it would help isolate market movements driven by economic fundamentals from those influenced by elections, driving a more relevant result to the question of interest. Furthermore, we could also explore sector-specific stock indices to determine how different industries respond to elections. For example, industries that are likely to be volatile to the government policies, such as healthcare or renewable energy, may exhibit more pronounced reactions compared to less regulated sectors.	
 
-## Group Assessment 
-50% (Bidita) - 50% (Pure)
 
 ## References
 Yahoo Finance. (n.d.). S&P 500 Historical Data. Retrieved from https://finance.yahoo.com/quote/%5EGSPC/history/ Encyclopedia Britannica. (n.d.). 
 
 Presidents of the United States. Retrieved from https://www.britannica.com/topic/Presidents-of-the-United-States-1846696
   
-## Where's Schueller?
-{% include_relative wheres_schueller.html %}
+## Figure 1
+{% include_relative final.html %}
 
 
 

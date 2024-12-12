@@ -82,8 +82,7 @@ Yahoo Finance. (n.d.). S&P 500 Historical Data. Retrieved from https://finance.y
 
 Presidents of the United States. Retrieved from https://www.britannica.com/topic/Presidents-of-the-United-States-1846696
   
-## Figure 1
-{% include_relative final.html %}
+
 
 
 

@@ -8,3 +8,4 @@ I'm passionate about data analysis and financial consulting. This is my [Linkedi
 - Programming: Python, R
 - Data Visualization: Tableau, Power BI, ggplot2, Matplotlib
 
+## [Link](https://nawabidi.github.io/final-/) to my Data Science Project
